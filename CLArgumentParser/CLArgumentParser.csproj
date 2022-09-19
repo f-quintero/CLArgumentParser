@@ -5,11 +5,11 @@
       <ImplicitUsings>enable</ImplicitUsings>
       <Nullable>enable</Nullable>
       <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-      <Title>Command Line Argument Parser</Title>
+      <Title>Command Line Arguments Parser</Title>
       <Company />
       <Authors>Fabian Quintero</Authors>
       <Version>1.0.2</Version>
-      <Description>A simple command line argument parser configurable in a single line</Description>
+      <Description>A simple command line arguments parser configurable in a single line</Description>
       <RepositoryUrl>https://github.com/f-quintero/Command-line-argument-parser</RepositoryUrl>
       <RepositoryType>GIT</RepositoryType>
       <PackageReleaseNotes></PackageReleaseNotes>
