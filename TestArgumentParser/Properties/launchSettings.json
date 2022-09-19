@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestArgumentParser": {
+      "commandName": "Project",
+      "commandLineArgs": "/input=\"archivo datos.in\" /output=archivo.out /F /S"
+    }
+  }
+}
