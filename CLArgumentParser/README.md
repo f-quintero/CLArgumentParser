@@ -1,6 +1,6 @@
 # Command-line-argument-parser
 
-This is a simple command line argument parser that pretend be configurated with just one string pattern.
+This is a simple command line arguments parser that pretend be configurated with just one string pattern.
 
 The pattern describes the way arguments shuuld be interpteted
 
