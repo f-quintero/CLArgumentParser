@@ -102,5 +102,7 @@ Argument /output value: archivo.out
 Argument /F value: True
 Argument /F value: True
 ```
-
+  
+Version 1.0.2
+- Now you can add a description for each argument with the function ```void SetDescription(string argumentName, string description)```. This description will appear with the usage output.
 Hope you enjoy it.
